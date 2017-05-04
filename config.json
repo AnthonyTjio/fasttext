@@ -1,0 +1,12 @@
+{
+	"model": "./model/noox_model",
+	"dim": 10,
+	"learning_rate": 0.005,
+	"epoch": 1,
+	"min_count": 1,
+	"word_ngrams": 3,
+	"bucket": 2000000,
+	"thread": 3,
+	"silent": 1,
+	"label_prefix": ""
+}
