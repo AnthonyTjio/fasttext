@@ -1,3 +1,9 @@
 ./model
-./.*.csv
-./.*.txt
+./coba.csv
+./dataset.csv
+./result_2.csv
+./test_2.csv
+./training.csv
+./test.txt
+./test_2.txt
+./training.txt
